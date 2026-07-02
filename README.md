@@ -1,4 +1,4 @@
-# TabNest 🌿
+# TabNest 🧭 
 
 > Vibe-coded tab navigator — keyboard-first, cozy, and minimal.
 
