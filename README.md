@@ -3,7 +3,7 @@
   <p align="center"><em>Vibe-coded tab navigator — keyboard-first, cozy, and minimal.</em></p>
   <p align="center">Switch and manage browser tabs without touching the mouse. Works in Chrome and Firefox.</p>
   
-  <img src="ss.png" alt="TabNest screenshot" width="600">
+  <p align="center"><img src="ss.png" alt="TabNest screenshot" width="600"></p>
 </p>
 
 ---
