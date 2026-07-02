@@ -4,6 +4,8 @@
 
 Switch and manage browser tabs without touching the mouse. Works in Chrome and Firefox.
 
+![Screenshot](ss.png)
+
 ## Features
 
 - **Keyboard-first** — Open with `Ctrl+Shift+K`, navigate with arrows, select with Enter
