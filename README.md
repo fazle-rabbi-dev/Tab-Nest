@@ -1,10 +1,10 @@
-# TabNest 🧭 
+<p align="center">
+  <h1 align="center">TabNest 🧭</h1>
+  <p align="center"><em>Vibe-coded tab navigator — keyboard-first, cozy, and minimal.</em></p>
+  <p align="center">Switch and manage browser tabs without touching the mouse. Works in Chrome and Firefox.</p>
+</p>
 
-> Vibe-coded tab navigator — keyboard-first, cozy, and minimal.
-
-Switch and manage browser tabs without touching the mouse. Works in Chrome and Firefox.
-
-![Screenshot](ss.png)
+---
 
 ## Features
 
@@ -29,15 +29,15 @@ Click the extension icon in the toolbar to open it as well.
 
 ## Install
 
-**Chrome / Chromium-based browsers:**
-1. Go to `chrome://extensions`
-2. Enable **Developer mode**
-3. Click **Load unpacked** and select the `tab-nest` folder
+**Chrome / Chromium**
+```
+chrome://extensions → Developer mode → Load unpacked → select tab-nest/
+```
 
-**Firefox:**
-1. Go to `about:debugging#/runtime/this-firefox`
-2. Click **Load Temporary Add-on**
-3. Select `firefox/manifest.json`
+**Firefox**
+```
+about:debugging#/runtime/this-firefox → Load Temporary Add-on → select firefox/manifest.json
+```
 
 ## Structure
 
