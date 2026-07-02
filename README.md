@@ -2,11 +2,13 @@
   <h1 align="center">TabNest 🧭</h1>
   <p align="center"><em>Vibe-coded tab navigator — keyboard-first, cozy, and minimal.</em></p>
   <p align="center">Switch and manage browser tabs without touching the mouse. Works in Chrome and Firefox.</p>
+  
+  <img src="ss.png" alt="TabNest screenshot" width="600">
 </p>
 
 ---
 
-## Features
+## ✨ Features
 
 - **Keyboard-first** — Open with `Ctrl+Shift+K`, navigate with arrows, select with Enter
 - **MRU sorting** — Active tab + top 10 most recently used tabs, sorted by last access
@@ -15,7 +17,7 @@
 - **Dark cozy theme** — GitHub-dark inspired UI, smooth animations
 - **Zero dependencies** — Vanilla JS, no frameworks, no build step
 
-## Usage
+## ⌨️ Usage
 
 | Key | Action |
 |-----|--------|
@@ -27,7 +29,7 @@
 
 Click the extension icon in the toolbar to open it as well.
 
-## Install
+## 📦 Install
 
 **Chrome / Chromium**
 ```
@@ -39,7 +41,7 @@ chrome://extensions → Developer mode → Load unpacked → select tab-nest/
 about:debugging#/runtime/this-firefox → Load Temporary Add-on → select firefox/manifest.json
 ```
 
-## Structure
+## 📁 Structure
 
 ```
 tab-nest/
